@@ -6,3 +6,4 @@ _site/
 # OS or Editor folders
 .DS_Store
 node_modules
+.idea
