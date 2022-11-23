@@ -5,7 +5,7 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title: SOUTIEN
+title: TMP_TITLE
 description: Customer Support Helpdesk Jekyll theme
 lang: fr
 
@@ -19,7 +19,7 @@ permalink: /:title
 url: https://junthong.github.io
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
-logo:
+logo: favicon.svg
 
 # Default author settings
 author:
@@ -92,9 +92,6 @@ uploads: /uploads/
 article:
   search: true
   cta:
-    text: "Didn't find an answer to your question, we are here to help"
-    button_text: "Contact Us"
-    button_url: /contact/
 
 # Build settings
 markdown: kramdown
