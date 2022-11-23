@@ -4,16 +4,26 @@ backend:
   branch: prepublish
   site_domain: statuesque-granita-8c2c00.netlify.com
 publish_mode: editorial_workflow
-media_folder: "m/uploads"
+media_folder: 'm/uploads'
 collections:
-  - name: "articles" # Used in routes, e.g., /admin/collections/blog
-    label: "articles" # Used in the UI
-    folder: "_articles" # The path to the folder where the documents are stored
+  - name: 'articles' # Used in routes, e.g., /admin/collections/blog
+    label: 'articles' # Used in the UI
+    folder: '_articles' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     fields: # The fields for each document, usually in front matter
-      #- {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Subtitle", name: "subtitle", widget: "string" }
-      - { label: "Tags", name: "tags", widget: list }
-      - { label: "Body", name: "body", widget: "markdown" }
+      #- {label: 'Layout', name: 'layout', widget: 'hidden', default: 'blog'}
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Subtitle', name: 'subtitle', widget: 'string' }
+      - { label: 'Author', name: 'author', required: false, widget: 'string' }
+      - label: 'Author link'
+        name: 'authorLink'
+        required: false
+        pattern: [ '/^https?:\/\/(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b(?:[-a-zA-Z0-9()@:%_\+.~#?&\/=]*)$/','It must be a valid URL' ]
+        widget: 'string'
+      - label: 'Tags'
+        name: 'tags'
+        required: false
+        widget: list
+        field: { label: 'Tags', name: 'tag', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
