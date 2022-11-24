@@ -1,53 +1,30 @@
-- title: Getting Started
-  icon: cog
+- title: Bien débuter
+  icon: ic-nipper
   articles:
-  - installation
-  - setup
-  - footer
-
-- title: Create Content
-  icon: file-edit
-  articles:
-  - posts
-  - articles
-  - comments
-  - media
-  - alerts
-
-- title: Theme Features
-  icon: settings
-  articles:
-  - home
-  - categories
-  - faq
-  - cta
-  - changelog
-  - contact
-
-- title: Navigation Bar
-  icon: menu
-  articles:
-  - navigation
-
-- title: Google Analytics
-  icon: history
-  articles:
-  - analytics
-
-- title: Newsletter Sign Up
-  icon: mail
-  articles:
-  - mailchimp
+    - installation
+    - setup
+    - footer
 
 - title: Customization
-  icon: code
+  icon: ic-custo
   articles:
-  - translation
-  - customize
-  - development
+    - posts
+    - articles
+    - comments
+    - media
+    - alerts
 
-- title: Help & Sources
-  icon: question
+- title: Peinture
+  icon: ic-airbrush
   articles:
-  - support
-  - sources
+    - home
+    - categories
+    - faq
+    - cta
+    - changelog
+    - contact
+
+- title: Materiel
+  icon: ic-tools
+  articles:
+    - navigation

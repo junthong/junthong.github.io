@@ -38,7 +38,11 @@ layout: default
 
             <div class="uk-width-auto@m">
                 <div class="boundary-align">
-                    <div class="uk-visible@m uk-text-primary icon-category"><span data-uk-icon="icon: {{ article_category.icon | default: 'file-text'  }}; ratio: 3"></span></div>
+                    <div class="uk-visible@m uk-text-primary icon-category">
+                        <svg width="60" height="60">
+                            <use xlink:href="/uploads/icons.svg#{{ article_category.icon }}" class="svgPrimaryFill"/>
+                        </svg>
+                    </div>
 
                     <div class="uk-hidden@m">
                         <button class="uk-button uk-button-large uk-button-default uk-width-1-1" type="button">{{ site.data.translation[site.lang].article_categories | default: "Categories" }}</button>
@@ -52,7 +56,7 @@ layout: default
                                         <ul class="uk-nav-sub">
                                             {% for article in category.articles %}
                                                 {% assign p = site.articles | where:"slug", article | first %}
-                                                <li{% if article == page.slug %} class="uk-active"{% endif %}><a href="{{ p.url }}">{{ p.title }}</a></li>
+                                                <li {% if article == page.slug %}class="uk-active"{% endif %}><a href="{{ p.url }}">{{ p.title }}</a></li>
                                             {% endfor %}
                                         </ul>
                                     </li>
@@ -68,10 +72,19 @@ layout: default
                 <article class="uk-article">
 
                     <h2 class="uk-article-title uk-margin-large-bottom">{{ page.title | escape }}</h2>
-
-                    {% if page.subtitle %}
-                        <p class="uk-text-lead uk-margin-large-bottom">{{ page.subtitle }}</p>
+                    {% if page.author %}
+                    <p class="uk-text-lead uk-margin-large-bottom">
+                        Écrit par {% if page.authorLink %}<a href="{{ page.authorLink }}">{% endif %}{{ page.author }}{% if page.authorLink %}</a>{% endif %}.
+                    </p>
                     {% endif %}
+
+                    {% comment %}
+                    {% if page.subtitle %}
+                        <p class="uk-text-lead uk-margin-large-bottom">
+                            {{ page.subtitle }}
+                        </p>
+                    {% endif %}
+                    {% endcomment %}
 
                     <div class="article-content button-link">
                         {{content}}
