@@ -1,10 +1,8 @@
-- title: Bien débuter
+- title: Guide du débutant
   icon: ic-nipper
   articles:
     - grade
-    - installation
-    - setup
-    - footer
+    - materiel-essentiel
 
 - title: Customization
   icon: ic-custo
