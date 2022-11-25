@@ -6,6 +6,7 @@ tags: [Débutant]
 ---
 
 # Quel Gunpla choisir pour une première expérience ?
+
 Il n'ya qu'une seule réponse : celui pour lequelle on a un coups de coeur. Rien ne motivera plus à vouloir pratiquer plus ce hobby que de faire un kit qui nous plait.
 
 {% include alert.html style="success" text="Dans le cas particulier ou vous souhaiteriez faire découvrir ce hobby à un enfant, il sera plutôt recommander de lui offre un modèle de la gamme Entry grade ou Super deformed, ceux ci ne requierant la manipulation d'aucun outils tranchant." %}
