@@ -1,6 +1,7 @@
 - title: Bien débuter
   icon: ic-nipper
   articles:
+    - grade
     - installation
     - setup
     - footer
