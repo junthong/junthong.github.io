@@ -15,7 +15,7 @@ Pour monter un Gunpla un matériel de base est nécessaire. Dans cette article n
 
 # Pince
 
-{% include image.html img="https://via.placeholder.com/800x500" alt="Pince"%}
+{% include image.html img="https://via.placeholder.com/800x500" alt="Nipper"%}
 
 Le premier, et certainements l'outils que vous utiliserez le plus est une pince. Celle ci vous servira à dégraper les pièces de vos Gunplas, mais aussi à découper les ergots résiduels sur celles-ci.
 
