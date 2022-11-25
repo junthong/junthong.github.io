@@ -2,17 +2,17 @@
 title: Premier gunpla et grade
 subtitle:
 author: Jun
-tags: [beginner]
+tags: [Débutant]
 ---
 
 # Quel Gunpla choisir pour une première expérience ?
 Il n'ya qu'une seule réponse : celui pour lequelle on a un coups de coeur. Rien ne motivera plus à vouloir pratiquer plus ce hobby que de faire un kit qui nous plait.
 
-{% include alert.html style="success" text="Dans le cas particulier ou vous souhaiteriez faire découvrir ce hobby à un enfant, il sera plutôt recommander de lui offre un modèle de la gamme Entry grade ou Super deformed, ceux ci ne requierant la manipulation d'aucun outils tranchant. " %}
-
+{% include alert.html style="success" text="Dans le cas particulier ou vous souhaiteriez faire découvrir ce hobby à un enfant, il sera plutôt recommander de lui offre un modèle de la gamme Entry grade ou Super deformed, ceux ci ne requierant la manipulation d'aucun outils tranchant." %}
 
 # Les différents grade
-Bandai, la company qui produit tout les models de gunpla, utilise un system de grade pour définir le niveau de détails de ses modèles. Ces grades présente à titre indicatif uniquement un niveau de difficulté croissant. 
+
+Bandai, la company qui produit tout les models de gunpla, utilise un system de grade pour définir le niveau de détails de ses modèles. Ces grades représente à titre indicatif uniquement un niveau de difficulté croissant.
 
 <table class="uk-table uk-table-divider">
     <thead>
@@ -97,13 +97,14 @@ Bandai, la company qui produit tout les models de gunpla, utilise un system de g
 </table>
 
 # Serie Limitée
-En plus des kits disponnible sur le marché, Bandai propose régulièrement des tirage limité ou exclusive à certains point de ventes.
+
+En plus des kits disponnible sur le marché, Bandai propose régulièrement des tirage limité ou exclusive à certains points de vente.
 
 - **Gundam Base Limited** : Ces kit sont uniquement disponnible dans les magasins Gundam Base Tokyo, Gundam Factory Yokohama, Gundam Side-F et chez quelques revendeurs agréés en dehors du Japon. Ces kits sont facilement reconnaissable au logo Gundam Base présent sur chaque boite. Ce sont généralement des kits pré-existant de tout grade mais proposés dans une couleurs alternatives.
   {% include image.html img="grade-gundambase.jpg" alt="Gundam Base Limited" %}
-- **Gundam Base Limited Item** :Ces kit sont exclusif dans les mêmes magasins que les kit Gundam Base Limited, mais sont un tirage unique qui les rends particulièrements rare. Ils ont proposé dans une boite monochromatique et affiche un logo "Limited Item". 
+- **Gundam Base Limited Item** :Ces kit sont exclusif dans les mêmes magasins que les kit Gundam Base Limited, mais sont un tirage unique qui les rends particulièrements rare. Ils ont proposé dans une boite monochromatique et affiche un logo "Limited Item".
   {% include image.html img="grade-limiteditem.jpg" alt="Gundam Base Limited Item" %}
 - **Gundam Side-F** : Ces kit sont uniquement disponnible au magasin Gundam Side-F de Fukuhoka et chez quelques revendeurs agréés en dehors du Japon. Ils sont reconnaisable au logo Gundam Side-F présent sur la boite.
   {% include image.html img="grade-sidef.jpg" alt="Gundam Side-F" %}
-- **Premium Bandai** : Ces kit sont uniquement disponnible sur la boutiquee en ligne Premium Bandai et chez quelques revendeurs agréés en dehors du Japon. Ces kits sont des tirages uniques de modèles pré-existants dans une couleur exclusive ou avec un jeu d'accessoire spécifique. Plus rarement des kits sont créés exclusivement pour cette gamme.   
+- **Premium Bandai** : Ces kit sont uniquement disponnible sur la boutiquee en ligne Premium Bandai et chez quelques revendeurs agréés en dehors du Japon. Ces kits sont des tirages uniques de modèles pré-existants dans une couleur exclusive ou avec un jeu d'accessoire spécifique. Plus rarement des kits sont créés exclusivement pour cette gamme.
   {% include image.html img="grade-pbandai.jpg" alt="Premium Bandai" %}
