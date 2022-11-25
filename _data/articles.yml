@@ -3,27 +3,16 @@
   articles:
     - grade
     - materiel-essentiel
+    - coupe
 
 - title: Customization
   icon: ic-custo
   articles:
-    - posts
-    - articles
-    - comments
-    - media
-    - alerts
 
 - title: Peinture
   icon: ic-airbrush
   articles:
-    - home
-    - categories
-    - faq
-    - cta
-    - changelog
-    - contact
 
 - title: Materiel
   icon: ic-tools
   articles:
-    - navigation
