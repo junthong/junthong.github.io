@@ -13,7 +13,7 @@ Pour monter un Gunpla un matériel de base est nécessaire. Dans cette article n
 
 {% include alert.html style="warning" text="De part la nature des outils présentés dans cette articles, l'utilisation de ceux-ci par enfants doit être effectué sous la surveillance d'un adulte." %}
 
-# Pince
+## Pince
 
 {% include image.html img="https://via.placeholder.com/800x500" alt="Nipper"%}
 
@@ -23,7 +23,7 @@ La qualité d'une pince définis la qualité de la coupe que vous obtiendrais. P
 
 {% include alert.html style="warning" text="Il est fortement déconseiller d'utiliser un matériel non adapté au modélisme, une pince destiné à la mécanique ou à l'électricité produira une coupe grossière qui risque d'abimer votre Gunpla." %}
 
-# Lime et matériel de ponçage
+## Lime et matériel de ponçage
 
 {% include image.html img="https://via.placeholder.com/800x500" alt="Pince"%}
 
@@ -41,25 +41,25 @@ Les grains **1000**, **2000** ou **4000** sont utilisé pour finir le ponçage e
 
 **Papier à poncer :** Sous forme de papier ou de papier coller sur une éponge, ils vous permettra de limer une pièce courbe tout en conservant la forme de celle ci.
 
-# couteau de modélisme
+## couteau de modélisme
 
 {% include image.html img="https://via.placeholder.com/800x500" alt="Pince"%}
 
 Un couteau de modélisme sera toujours à favoriser plutôt q'un cutter. Cette outils sera utilisé pour des petite coupes, couper des parties difficiles d'accès, découper des stickers, ... Bref, un indispensable.
 
-# Tapis de découpe
+## Tapis de découpe
 
 {% include image.html img="https://via.placeholder.com/800x500" alt="Pince"%}
 
 Le tapis de découpe n'est pas à proprement parler un outils, mais protégera votre espace de travail lors de travaux de découpes. La plupart des tapis sont imprimés avec une graduation permettant de couper rapidement un objet à la taille désiré.
 
-# Pince de précision
+## Pince de précision
 
 {% include image.html img="https://via.placeholder.com/800x500" alt="Pince"%}
 
 Une pince de précision sera utile pour placer une petite pièces, mais surtout pour placer précisément un autocallant ou une décalcomanie.
 
-# Kit de débutant
+## Kit de débutant
 
 {% include image.html img="https://via.placeholder.com/800x500" alt="Pince"%}
 

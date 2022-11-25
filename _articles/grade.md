@@ -5,13 +5,13 @@ author: Jun
 tags: [Débutant]
 ---
 
-# Quel Gunpla choisir pour une première expérience ?
+## Quel Gunpla choisir pour une première expérience ?
 
 Il n'ya qu'une seule réponse : celui pour lequelle on a un coups de coeur. Rien ne motivera plus à vouloir pratiquer plus ce hobby que de faire un kit qui nous plait.
 
 {% include alert.html style="success" text="Dans le cas particulier ou vous souhaiteriez faire découvrir ce hobby à un enfant, il sera plutôt recommander de lui offre un modèle de la gamme Entry grade ou Super deformed, ceux ci ne requierant la manipulation d'aucun outils tranchant." %}
 
-# Les différents grade
+## Les différents grade
 
 Bandai, la company qui produit tout les models de gunpla, utilise un system de grade pour définir le niveau de détails de ses modèles. Ces grades représente à titre indicatif uniquement un niveau de difficulté croissant.
 
@@ -97,7 +97,7 @@ Bandai, la company qui produit tout les models de gunpla, utilise un system de g
     </tbody>
 </table>
 
-# Serie Limitée
+## Serie Limitée
 
 En plus des kits disponnible sur le marché, Bandai propose régulièrement des tirage limité ou exclusive à certains points de vente.
 

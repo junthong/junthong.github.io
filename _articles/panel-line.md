@@ -11,7 +11,7 @@ Le panel lining consiste à effectué un lavis sur les lignes creusées dans le 
 
 {% include image.html img="https://via.placeholder.com/800x500" alt="Panel lining avant / après" %}
 
-# Panel liner en pot
+## Panel liner en pot
 
 {% include image.html img="panelline-tamiya.webp" alt="Panel liner Tamiya" %}
 
@@ -30,11 +30,11 @@ Sur un coton tige on applique du diluant, puis le passer un papier absorbant. Le
 {% include image.html img="https://via.placeholder.com/800x500" alt="Panel lining - nettoyage" %}
 
 
-# Panel lining avec un Gundam Marker
+## Panel lining avec un Gundam Marker
 
 // TODO
 
-# Quelle couleur utiliser ?
+## Quelle couleur utiliser ?
 
 La liste suivante n'est qu'une recommandation :
 
@@ -42,5 +42,5 @@ La liste suivante n'est qu'une recommandation :
 **Black** : Sur du Bleu ou gris foncé.
 **Brown** : Sur des couleurs chaude, jaune ou rouge par exemple.
 
-# Mixer son propre panel liner
+## Mixer son propre panel liner
 Il est possible d'utiliser n'importe quel peinture enamel fortement dilué pour créer son propre panel liner. Le ratio de diluant dépend de la couleur utiliser, 1(enamel):5(diluant) pour une couleur normal, 1(enamel):10(diluant) pour une peinture métalisé. Ces ratio ne sont qu'une suggestion et dépande de la marque de la peinture et du diluant, de l'humidité ambiante, etc.
