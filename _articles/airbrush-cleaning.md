@@ -38,7 +38,7 @@ Après 20 à 30s de back wash, l'on pourra vaporiser pendant 5 à 10s dans un r�
 
 Ensuite, trempez du papier absorbant dans le godet, et frotter celui ci afin de retirer tout reste de peinture. S'il reste de la solution nettoyante dans le godet après cela, celui ci peut être remiser dans le récipient en verre pour une ré-utilisation ultérieure.
 
-{% include alert.html style="warning" text="Durant cette étape il est important de ne pas appuyer sur l'aiguille accessible au fond du godet afin de ne pas la tordre." %}
+{% include alert.html style="danger" text="Durant cette étape il est important de ne pas appuyer sur l'aiguille accessible au fond du godet afin de ne pas la tordre." %}
 
 {% include image.html img="https://via.placeholder.com/800x500" alt="Contrainte mécannique" %}
 
@@ -65,4 +65,4 @@ A la fin d'une session il est aussi possible de nettoyer l'exterieur du corps de
 
 La solution de nettoyage peut aussi être utilisé pour nettoyer divers outils en métal utiliser en peinture : cuillère, spatule, ...
 
-{% include alert.html style="warning" text="Ne jamais mettre en contact la solution de nettoyage et du plastique, celle ci fera fondre le plastique." %}
+{% include alert.html style="danger" text="Ne jamais mettre en contact la solution de nettoyage et du plastique, celle ci fera fondre le plastique." %}

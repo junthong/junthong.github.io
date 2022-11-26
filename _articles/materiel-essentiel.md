@@ -11,7 +11,7 @@ Pour monter un Gunpla un matériel de base est nécessaire. Dans cette article n
 
 {% include alert.html style="success" text="Il n'est aucunement nécesaire d'investir dans un matériel couteux pour obtenir un résultat magnifique et être pleinement satisfait de son Gunpla une fois monté. Certains outils non spécifique au modèlisme peuvent aussi être utilisé." %}
 
-{% include alert.html style="warning" text="De part la nature des outils présentés dans cette articles, l'utilisation de ceux-ci par enfants doit être effectué sous la surveillance d'un adulte." %}
+{% include alert.html style="danger" text="De part la nature des outils présentés dans cette articles, l'utilisation de ceux-ci par enfants doit être effectué sous la surveillance d'un adulte." %}
 
 ## Pince
 
@@ -21,7 +21,7 @@ Le premier, et certainements l'outils que vous utiliserez le plus est une pince.
 
 La qualité d'une pince définis la qualité de la coupe que vous obtiendrais. Plus une pince est de haute qualité moins la coupe sera visible.
 
-{% include alert.html style="warning" text="Il est fortement déconseiller d'utiliser un matériel non adapté au modélisme, une pince destiné à la mécanique ou à l'électricité produira une coupe grossière qui risque d'abimer votre Gunpla." %}
+{% include alert.html style="danger" text="Il est fortement déconseiller d'utiliser un matériel non adapté au modélisme, une pince destiné à la mécanique ou à l'électricité produira une coupe grossière qui risque d'abimer votre Gunpla." %}
 
 ## Lime et matériel de ponçage
 
