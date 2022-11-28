@@ -5,7 +5,7 @@ author: Jun
 tags: [Débutant]
 ---
 
-## Quel Gunpla choisir pour une première expérience ?
+# Quel Gunpla choisir pour une première expérience ?
 
 Il n'ya qu'une seule réponse : celui pour lequelle on a un coups de coeur. Rien ne motivera plus à vouloir pratiquer plus ce hobby que de faire un kit qui nous plait.
 
