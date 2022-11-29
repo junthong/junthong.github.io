@@ -33,10 +33,10 @@ CGI/creas, aussi connu sous le nom Mr.Hobby, propose tout une gamme de different
 <table class="uk-table uk-table-divider">
     <thead>
         <tr>
-            <th class="uk-table-shrink">Type</th>
-            <th class="uk-table-shrink">Ref.</th>
+            <th>Type</th>
+            <th>Ref.</th>
             <th>Diluant</th>
-            <th class="uk-table-shrink">Ratio (P:D)</th>
+            <th>Ratio (P:D)</th>
         </tr>
     </thead>
     <tbody>
@@ -96,10 +96,10 @@ CGI/creas, aussi connu sous le nom Mr.Hobby, propose tout une gamme de different
 <table class="uk-table uk-table-divider">
     <thead>
         <tr>
-            <th class="uk-table-shrink">Type</th>
-            <th class="uk-table-shrink">Ref.</th>
+            <th>Type</th>
+            <th>Ref.</th>
             <th>Diluant</th>
-            <th class="uk-table-shrink">Ratio (P:D)</th>
+            <th>Ratio (P:D)</th>
         </tr>
     </thead>
     <tbody>
@@ -133,7 +133,7 @@ Vallejo propose un produit nommé "Airbrush Flow Improver" nécessaire pour les 
 <table class="uk-table uk-table-divider">
     <thead>
         <tr>
-            <th class="uk-table-shrink">Ref.</th>
+            <th>Ref.</th>
             <th>Diluant</th>
             <th>Ratio</th>
         </tr>
@@ -166,10 +166,10 @@ Vallejo propose un produit nommé "Airbrush Flow Improver" nécessaire pour les 
 <table class="uk-table uk-table-divider">
     <thead>
         <tr>
-            <th class="uk-table-shrink">Type</th>
-            <th class="uk-table-shrink">Ref.</th>
+            <th>Type</th>
+            <th>Ref.</th>
             <th>Diluant</th>
-            <th class="uk-table-shrink">Ratio (P:D)</th>
+            <th>Ratio (P:D)</th>
         </tr>
     </thead>
     <tbody>

@@ -18,7 +18,7 @@ Bandai, la company qui produit tout les models de gunpla, utilise un system de g
 <table class="uk-table uk-table-divider">
     <thead>
         <tr>
-            <th class=".uk-table-shrink"></th>
+            <th></th>
             <th></th>
         </tr>
     </thead>

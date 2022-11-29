@@ -10,7 +10,7 @@ Comme tout hobby, le Gunpla viens avec son lot de jargon et de termes techniques
 <table class="uk-table uk-table-divider">
     <thead>
         <tr>
-            <th class=".uk-table-shrink">Termes</th>
+            <th>Termes</th>
             <th>Definition</th>
         </tr>
     </thead>
