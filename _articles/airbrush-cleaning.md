@@ -20,7 +20,7 @@ Alternativement du diluant pour peinture peut aussi être utilisé. Cela sera mo
 
 Un jeu de brosse de différent diamètre est nécessaire pour nettoyer les plus petits orifices de l'aérographe. Beaucoup de fabriquand propose leur kit de nettoyage, ci dessous celui de Tamiya.
 
-{% include image.html img="airbrush-cleaningbrush.jpg" alt="Aerographe - brosse de nettoyage" %}
+{% include image.html img="airbrush-cleaningbrush.webp" alt="Aerographe - brosse de nettoyage" %}
 
 Un récipient en verre permettra de remiser et ré-utiliser la solution de nettoyage.
 

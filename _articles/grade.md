@@ -102,10 +102,10 @@ Bandai, la company qui produit tout les models de gunpla, utilise un system de g
 En plus des kits disponnible sur le marché, Bandai propose régulièrement des tirage limité ou exclusive à certains points de vente.
 
 - **Gundam Base Limited** : Ces kit sont uniquement disponnible dans les magasins Gundam Base Tokyo, Gundam Factory Yokohama, Gundam Side-F et chez quelques revendeurs agréés en dehors du Japon. Ces kits sont facilement reconnaissable au logo Gundam Base présent sur chaque boite. Ce sont généralement des kits pré-existant de tout grade mais proposés dans une couleurs alternatives.
-  {% include image.html img="grade-gundambase.jpg" alt="Gundam Base Limited" %}
+  {% include image.html img="grade-gundambase.webp" alt="Gundam Base Limited" %}
 - **Gundam Base Limited Item** :Ces kit sont exclusif dans les mêmes magasins que les kit Gundam Base Limited, mais sont un tirage unique qui les rends particulièrements rare. Ils ont proposé dans une boite monochromatique et affiche un logo "Limited Item".
-  {% include image.html img="grade-limiteditem.jpg" alt="Gundam Base Limited Item" %}
+  {% include image.html img="grade-limiteditem.webp" alt="Gundam Base Limited Item" %}
 - **Gundam Side-F** : Ces kit sont uniquement disponnible au magasin Gundam Side-F de Fukuhoka et chez quelques revendeurs agréés en dehors du Japon. Ils sont reconnaisable au logo Gundam Side-F présent sur la boite.
-  {% include image.html img="grade-sidef.jpg" alt="Gundam Side-F" %}
+  {% include image.html img="grade-sidef.webp" alt="Gundam Side-F" %}
 - **Premium Bandai** : Ces kit sont uniquement disponnible sur la boutiquee en ligne Premium Bandai et chez quelques revendeurs agréés en dehors du Japon. Ces kits sont des tirages uniques de modèles pré-existants dans une couleur exclusive ou avec un jeu d'accessoire spécifique. Plus rarement des kits sont créés exclusivement pour cette gamme.
-  {% include image.html img="grade-pbandai.jpg" alt="Premium Bandai" %}
+  {% include image.html img="grade-pbandai.webp" alt="Premium Bandai" %}
