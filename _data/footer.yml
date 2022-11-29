@@ -1,28 +1,28 @@
 # Footer navigation links
 
 col1:
-  - title: Company
+  - title: Gunpla.help
 
-  - title: About Us
+  - title: A propos
+    url: /about/
+
+  - title: Contact
     url: /contact/
 
-  - title: Our Mission
-    url: /contact/
-
-  - title: Contact Sales
-    url: /contact/
+  - title: Mentions légales
+    url: /legal/
 
 col2:
-  - title: Services
+  - title: Articles
 
-  - title: Products & Services
-    url: /contact/
+  - title: Guide du débutant
+    url: /articles/grade
 
-  - title: Customer Stories
-    url: /contact/
+  - title: Customisation
+    url: /article/
 
-  - title: Download Apps
-    url: /contact/
+  - title: Peinture
+    url: /articles/airbrush-cleaning
 
 col3:
   - title: Ressources
