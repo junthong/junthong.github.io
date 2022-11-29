@@ -29,9 +29,9 @@ permalink: /resources/
     </tr>
 </table>
 
-## Ajouter votre contenus ici
+## Ajouter votre contenu ici
 
-Si vous souhaiter voire votre contenue partagé ici, veuillez nous contacter à l'addresse suivante : <a id="m" />.
+Si vous souhaitez voire votre contenue partagé ici, veuillez nous contacter à adresse suivante : <a id="m" />.
 
 <script>
 const m1 = 'contact'; const m2 = 'gundam'; const m3 = 'help'; 

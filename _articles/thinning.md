@@ -5,29 +5,30 @@ author: Jun
 tags: [Intermédiaire]
 ---
 
-# Pourqoi diluer de la peinture ?
+# Pourquoi diluer de la peinture ?
 
-{% include alert.html style="success" text="Tout les conseils donner dans cette article concerne une utilisation à l'aérographe. Les ratio décrit ici bien qu'étant les recommandation des chaques fabriquants, ceux ci peuvent varier d'une couleur à l'autre." %}
+{% include alert.html style="success" text="Tous les conseils donner dans cet article concerne une utilisation à l'aérographe. Les ratios décris ici bien qu'étant les recommandations de chaque fabricant, ceux-ci peuvent varier d'une couleur à l'autre." %}
 
-{% include alert.html style="success" text="Tout les ratio indiquer dans cette article seront sous la forme Peinture:Diluant" %}
+{% include alert.html style="success" text="Tous les ratios indiquer dans cet article seront sous la forme Peinture:Diluant" %}
 
-La dillution est essentiel pour une bonne application, elle permet un meilleur flux dans l'aérographe pour ne pas boucher celui-ci. La dillution permet une meilleur application de la peinture en permettant des couches plus fines.
+La dilution est essentielle pour une bonne application, elle permet un meilleur flux dans l'aérographe pour ne pas boucher celui-ci. La dilution permet une meilleure application de la peinture en permettant des couches plus fines.
 
 Il est fortement recommandé d'utiliser un diluant du même fabriquant que votre peinture pour obtenir le meilleur résultat.
 
 ## Peinture à base aqueuse
 
-Certains peinture, généralement des peintures acrylique peuvent utiliser un diluant aqueux (de l'eau...).
+Certaines peintures, généralement des peintures acryliques peuvent utiliser un diluant aqueux (de l'eau...).
 
-Dans le cas d'une utilisation à l'aéroghraphe, il est déconseillé d'utiliser de l'eau du robinet ou de l'eau mineral, les impureté et minéraux contenu dans ces eaux vont contribuer à boucher l'aérographe. Il est donc recommandé d'utilisé de l'eau distilé, ou mieux encore le diluant proposé par le fabriquant pour obtenir une bonne dilution tout en prennant soin de son aérographe.
+Dans le cas d'une utilisation à l'aérographe, il est déconseillé d'utiliser de l'eau du robinet ou de l'eau mineral, les impuretés et minéraux contenus dans ces eaux vont contribuer à boucher l'aérographe. Il est donc recommandé d'utiliser de l'eau distillée, ou mieux encore le diluant proposé par le fabricant pour obtenir une bonne dilution tout en prenant soin de son aérographe.
 
 ## Mr.Color
 
-CGI/creas, aussi connu sous le nom Mr.Hobby, propose tout une gamme de different thinner pour ses différentes gamme de peinturess :
+CGI/creos, aussi connu sous le nom Mr. Hobby, propose toute une gamme de different thinner pour ses différentes gammes de peinture :
+
 - **Mr. Color Thinner :** Diluant basic, utilisable sur la plupart des peintures.
-- **Mr. Leveling Thinner :** Ce diluant retarde le sechage, recommandé pour les peintures gloss.
+- **Mr. Leveling Thinner :** Ce diluant retarde le séchage, recommandé pour les peintures gloss.
 - **Mr. Rapid Thinner :** Ce diluant sèche plus rapidement, recommandé pour les peintures matt et métallique.
-- **Aqueous Color thinner :** Contient de l'alcholol pour un séchage rapide, en permettant une meiller adhésion de la peinture que de l'eau.
+- **Aqueous Color thinner :** Contient de l'alcool pour un séchage rapide, en permettant une meilleure adhésion de la peinture que de l'eau.
 - **Acrysion thinner :** Ce diluant est recommandé pour la nouvelle gamme de peinture Acrysion.
 
 <table class="uk-table uk-table-divider">
@@ -124,11 +125,11 @@ CGI/creas, aussi connu sous le nom Mr.Hobby, propose tout une gamme de different
     </tbody>
 </table>
 
-{% include alert.html style="danger" text="<strong>Tamiya enamel XF1 & XF6</strong><br/> Bien que ces painture soit vendu sous l'appellation \"enamel\" leur formulation est différentes. Veuillez trouver plus d'information <a href=\"https://www.tamiya.com/english/info/paints_sep21/index.htm\">ici</a> " %}
+{% include alert.html style="danger" text="<strong>Tamiya enamel XF1 & XF6</strong><br/> Bien que ces peinture soit vendu sous l'appellation \"enamel\" leur formulation est différentes. Veuillez trouver plus d'information <a href=\"https://www.tamiya.com/english/info/paints_sep21/index.htm\">ici</a> " %}
 
 ## Vallejo
 
-Vallejo propose un produit nommé "Airbrush Flow Improver" nécessaire pour les aigilles ayant une taille égale ou inférieur à 0.2mm. Au dessus de cette taille ce produit est simplement recommandé.
+Vallejo propose un produit nommé "Airbrush Flow Improver" nécessaire pour les aiguilles ayant une taille égale ou inférieure à 0.2mm. Au-dessus de cette taille ce produit est simplement recommandé.
 
 <table class="uk-table uk-table-divider">
     <thead>
@@ -190,5 +191,5 @@ Vallejo propose un produit nommé "Airbrush Flow Improver" nécessaire pour les 
 
 ## G Studio
 
-Toutes les peintures du fabriquant sont pré-diluer, l'ajout de diluant est donc inutile.
+Toutes les peintures du fabricant sont pré-diluées, l'ajout de diluant est donc inutile.
 
