@@ -37,7 +37,7 @@ Bandai, la company qui produit tout les models de gunpla, utilise un system de g
             </td>    
         </tr>
         <tr>
-            <td>{% include image.html img="grade-hg.webp" alt="High Grade" %}</td>
+            <td>{% include image.html img="grade-HG.webp" alt="High Grade" %}</td>
             <td>
                 La gamme High Grade est sans aucun doute la gamme la plus fournie, presque tous les modèles étant apparus dans l'univers y sont représentés. Ces kits sont généralement à l'échelle 1/144 pour une taille moyenne d'une quinzaine de centimètre, mais peuvent être parfois plus grand. 
             </td>
