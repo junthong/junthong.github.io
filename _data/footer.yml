@@ -25,13 +25,10 @@ col2:
     url: /contact/
 
 col3:
-  - title: Information
+  - title: Ressources
 
-  - title: Privacy Policy
-    url: /contact/
+  - title: Trouver une association
+    url: /directory/
 
-  - title: Terms & Conditions
-    url: /contact/
-
-  - title: Join Us
-    url: /contact/
+  - title: Sur les réseaux sociaux
+    url: /resources/
