@@ -3,7 +3,7 @@ layout: home
 search: true
 ---
 
-{% include categories.html columns="4" title="How can we help?" %}
+{% include categories.html columns="4" %}
 
 {% comment %}
 {% include cta.html
