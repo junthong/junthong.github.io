@@ -16,7 +16,7 @@ baseurl: ""
 permalink: /:title
 
 # Site base hostname & protocol, e.g. http://example.com
-url: https://junthong.github.io
+url: https://gunpla.help
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
 logo: header-logo.svg
@@ -101,6 +101,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-gist
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock

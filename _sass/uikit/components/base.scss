@@ -94,6 +94,7 @@ $base-selection-color:                           $global-inverse-color !default;
 html {
     /* 1 */
     font-family: $base-body-font-family;
+    font-display: swap;
     font-size: $base-body-font-size;
     font-weight: $base-body-font-weight;
     line-height: $base-body-line-height;
