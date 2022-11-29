@@ -1,30 +1,22 @@
-- title: Bien débuter
+- title: Guide du débutant
   icon: ic-nipper
   articles:
-    - installation
-    - setup
-    - footer
+    - grade
+    - materiel-essentiel
+    - coupe
+    - panel-line
+    - lexicon
 
 - title: Customization
   icon: ic-custo
   articles:
-    - posts
-    - articles
-    - comments
-    - media
-    - alerts
 
 - title: Peinture
   icon: ic-airbrush
   articles:
-    - home
-    - categories
-    - faq
-    - cta
-    - changelog
-    - contact
+    - airbrush-cleaning
+    - thinning
 
 - title: Materiel
   icon: ic-tools
   articles:
-    - navigation
