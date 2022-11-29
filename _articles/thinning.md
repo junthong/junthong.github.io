@@ -128,6 +128,8 @@ CGI/creas, aussi connu sous le nom Mr.Hobby, propose tout une gamme de different
 
 ## Vallejo
 
+Vallejo propose un produit nommé "Airbrush Flow Improver" nécessaire pour les aigilles ayant une taille égale ou inférieur à 0.2mm. Au dessus de cette taille ce produit est simplement recommandé.
+
 <table class="uk-table uk-table-divider">
     <thead>
         <tr>
@@ -185,3 +187,8 @@ CGI/creas, aussi connu sous le nom Mr.Hobby, propose tout une gamme de different
         </tr>
     </tbody>
 </table>
+
+## G Studio
+
+Toutes les peintures du fabriquant sont pré-diluer, l'ajout de diluant est donc inutile.
+
