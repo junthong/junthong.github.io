@@ -2,8 +2,9 @@
   icon: ic-nipper
   articles:
     - grade
-    - materiel-essentiel
-    - coupe
+    - tool-essential
+    - tool-advanced
+    - cut
     - panel-line
     - lexicon
 
