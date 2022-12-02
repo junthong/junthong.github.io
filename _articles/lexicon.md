@@ -52,6 +52,18 @@ Comme tout hobby, le Gunpla viens avec son lot de jargon et de termes techniques
             <td>Décalcomanie à appliquer par friction.</td>
         </tr>
         <tr>
+            <td><strong>Panel line</strong></td>
+            <td>Action d'augmenter le contrast des lines séparant les divers éléments composant le design du kit. Généralement avec des peintures enamel ou des feutres dédiées.</td>
+        </tr>
+        <tr>
+            <td><strong>Panel scribing</strong></td>
+            <td>Action d'ajouter des lignes de démarcations sur le kit à l'aide de ciseaux à graver.</td>
+        </tr>
+        <tr>
+            <td><strong>Weathering</strong></td>
+            <td>Action de créer un effet de vieillissement sur un kit en utilisant diverses techniques.</td>
+        </tr>
+        <tr>
             <td><strong>Top coat</strong></td>
             <td>La dernière couche de vernis protectrice appliqué sur un kit.</td>
         </tr>
