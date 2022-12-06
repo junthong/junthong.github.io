@@ -5,3 +5,15 @@
 .roundedImg {
     border-radius: 50%;
 }
+
+.lum-lightbox-image-wrapper {
+    background-color: rgba(0, 0, 0, .5)
+}
+
+.lum-lightbox.lum-open {
+    z-index: 9999;
+}
+
+.uk-sticky-fixed {
+    z-index: 1;
+}
